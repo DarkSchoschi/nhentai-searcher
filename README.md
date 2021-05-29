@@ -1,4 +1,6 @@
-# nhentai-searcher
-An automatic generated 5 - 6 Number Only, Long code.
+# nhentai Sauce Code-searcher
+Generate a 6 number long number and check it on (https://nhentai.net/)
+it print then the working codes
 
-[nHentai](https://nhentai.net/)
+
+if u know how to safe the output in a file then please say it to me and edit the code.
